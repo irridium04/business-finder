@@ -1,2 +1,2 @@
 # business-finder
- A business finder flutter app
+ A business finder flutter app to showcase code.
